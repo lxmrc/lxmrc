@@ -15,4 +15,4 @@ A Tumblr-like microblogging application written in Ruby on Rails. <br/>
 
 ### Hyperbolic
 As in <a target="_blank" href="https://www.google.com/search?q=hyperbolic+time+chamber">"time chamber"</a>. Currently just an in-browser editor that can execute code on the server-side in containers. Eventually a platform for practicing programming using [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) through "executable flashcards".<br/>
-[Source](https://github.com/lxmrc/hyperbolic) &middot; [Demo](https://hyperbolic.lxmrc.com)
+[Source](https://github.com/lxmrc/hyperbolic) &middot; ~~[Demo]()~~ (taken this offline for now)
